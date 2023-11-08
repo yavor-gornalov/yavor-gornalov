@@ -21,7 +21,14 @@
 ### Statistics
 <div align="center">
   <img height=180 align="center" alt="Yavor's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yavor-gornalov&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  <img height=180 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yavor-gornalov&layout=compact&bg_color=09131B&hide_border=true" />
+  <img height=180 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yavor-gornalov&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+</div>
+<br />
+
+<div align="center">
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=yavor-gornalov&theme=dark&hide_border=true&background=09131B&currStreakLabel=ff652f&fire=FFE400&ring=FFE400)](https://git.io/streak-stats)
+  
 </div>
 
 <!--
