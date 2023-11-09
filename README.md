@@ -19,14 +19,14 @@
 
 ### Certificates I've earned:
 #### Software Engineering
-<a href="/python_cert.md"><img align="left" alt="advanced" height="22px" src="https://img.shields.io/badge/Python-Advanced-darkred?logo=Python&labelColor=blue&logoColor=white&style=flat" style="padding-right:10px;" /></a>
-<a href="/python_cert.md"><img align="left" alt="fundamentals" height="22px" src="https://img.shields.io/badge/Python-Fundamentals-orange?logo=Python&labelColor=blue&logoColor=white&style=flat" style="padding-right:10px;" /></a>
-<a href="/python_cert.md"><img align="left" alt="basics" height="22px" src="https://img.shields.io/badge/Python-Basics-darkgreen?logo=Python&labelColor=blue&logoColor=white&style=flat" style="padding-right:10px;" /></a>
+<a href="/certificates/python_advanced.jpeg"><img align="left" alt="advanced" height="22px" src="https://img.shields.io/badge/Python-Advanced-darkred?logo=Python&labelColor=blue&logoColor=white&style=flat" style="padding-right:10px;" /></a>
+<a href="/certificates/python_fundamentals.jpeg"><img align="left" alt="fundamentals" height="22px" src="https://img.shields.io/badge/Python-Fundamentals-orange?logo=Python&labelColor=blue&logoColor=white&style=flat" style="padding-right:10px;" /></a>
+<a href="/certificates/python_basics.jpeg"><img align="left" alt="basics" height="22px" src="https://img.shields.io/badge/Python-Basics-darkgreen?logo=Python&labelColor=blue&logoColor=white&style=flat" style="padding-right:10px;" /></a>
 <br />
 <br />
 #### Open Courses
-<a href="/python_cert.md"><img align="left" alt="mysql" height="22px" src="https://img.shields.io/badge/MySQL-Fundamentals-orange?logo=MySQL&labelColor=gray&logoColor=white&style=flat" style="padding-right:10px;" /></a>
-<a href="/python_cert.md"><img align="left" alt="algorithms" height="22px" src="https://img.shields.io/badge/Python-Algorithms-gray?logo=Python&labelColor=blue&logoColor=white&style=flat" style="padding-right:10px;" /></a>
+<a href="/certificates/mysql_fundamentals.jpeg"><img align="left" alt="mysql" height="22px" src="https://img.shields.io/badge/MySQL-Fundamentals-orange?logo=MySQL&labelColor=gray&logoColor=white&style=flat" style="padding-right:10px;" /></a>
+<a href="/certificates/python_algorithms.jpeg"><img align="left" alt="algorithms" height="22px" src="https://img.shields.io/badge/Python-Algorithms-gray?logo=Python&labelColor=blue&logoColor=white&style=flat" style="padding-right:10px;" /></a>
 <br />
 <br />
 <hr />
