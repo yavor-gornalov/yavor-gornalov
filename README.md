@@ -1,6 +1,6 @@
 ### Hi, I am Yavor Gornalov 👋
-- 🌱 Education: I'm currently learnig Software Engeneerig at SoftUni Universicty
-- 🔭 Interests: Web Application Development, Object Oriented Programming and Algorithms
+- 🌱 I'm currently learnig Software Engeneerig at SoftUni Universicty
+- 🔭 I am interested in Web Application Development, Object Oriented Programming and Algorithms
 - 📫 How to reach me: y.gornalov@gmail.com
 <hr/>
 
@@ -17,19 +17,31 @@
 <br />
 <hr />
 
+### Certificates I've earned:
+#### Software Engineering
+<a href="/python_cert.md"><img align="left" alt="advanced" height="22px" src="https://img.shields.io/badge/Python-Advanced-darkred?logo=Python&labelColor=blue&logoColor=white&style=flat" style="padding-right:10px;" /></a>
+<a href="/python_cert.md"><img align="left" alt="fundamentals" height="22px" src="https://img.shields.io/badge/Python-Fundamentals-orange?logo=Python&labelColor=blue&logoColor=white&style=flat" style="padding-right:10px;" /></a>
+<a href="/python_cert.md"><img align="left" alt="basics" height="22px" src="https://img.shields.io/badge/Python-Basics-darkgreen?logo=Python&labelColor=blue&logoColor=white&style=flat" style="padding-right:10px;" /></a>
+<br />
+<br />
+#### Open Courses
+<a href="/python_cert.md"><img align="left" alt="mysql" height="22px" src="https://img.shields.io/badge/MySQL-Fundamentals-orange?logo=MySQL&labelColor=gray&logoColor=white&style=flat" style="padding-right:10px;" /></a>
+<a href="/python_cert.md"><img align="left" alt="algorithms" height="22px" src="https://img.shields.io/badge/Python-Algorithms-gray?logo=Python&labelColor=blue&logoColor=white&style=flat" style="padding-right:10px;" /></a>
+<br />
+<br />
+<hr />
 
 ### Statistics
 <div align="center">
-  <img height=180 align="center" alt="Yavor's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yavor-gornalov&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  <img height=180 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yavor-gornalov&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img height=180 align="center" alt="Yavor's GitHub Stats" src="https://streak-stats.demolab.com?user=yavor-gornalov&theme=dark&border_radius=4.4&background=45%2C09131B%2C09131B&border=0C1A25" />
+  <img height=180 align="center" alt="Yavor's GitHub Top-Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yavor-gornalov&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </div>
 <br />
-
+<hr />
 <div align="center">
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=yavor-gornalov&theme=dark&hide_border=true&background=09131B&currStreakLabel=ff652f&fire=FFE400&ring=FFE400)](https://git.io/streak-stats)
-  
+  <img src="https://komarev.com/ghpvc/?username=yavor-gornalov&style=flat-square" />
 </div>
+
 
 <!--
 **yavor-gornalov/yavor-gornalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
