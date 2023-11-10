@@ -25,6 +25,7 @@
   <a href="./certificates/python_fundamentals.jpeg"><img align="left" alt="fundamentals" height="22px" src="./badges/python_fundamentals_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
   <a href="./certificates/python_basics.jpeg"><img align="left" alt="basics" height="22px" src="./badges/python_basics_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
 </div>
+<br />
 
 #### Open Courses
 <div style="display: flex; flex-wrap: wrap">
@@ -45,6 +46,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yavor-gornalov&style=flat-square" style="padding-top:1em; padding-bottom:1em;"/>
 </div>
+<br />
 
 
 <!--
