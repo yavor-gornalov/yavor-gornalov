@@ -2,8 +2,6 @@
 - 🌱 I'm currently learning Software Engineering at SoftUni University
 - 🔭 I am interested in Web Application Development, Object Oriented Programming and Algorithms
 - 📫 How to reach me: y.gornalov@gmail.com
-<br />
-<br />
 <hr/>
 
 ### Languages and Tools I know:
