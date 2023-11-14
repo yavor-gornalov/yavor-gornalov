@@ -22,15 +22,15 @@
 #### Software Engineering
 <div style="display: flex; flex-wrap: wrap">
   <a href="./certificates/python_advanced_cert.jpeg"><img align="left" alt="advanced" height="22px" src="./badges/python_advanced_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
-  <a href="./certificates/python_fundamentals.jpeg"><img align="left" alt="fundamentals" height="22px" src="./badges/python_fundamentals_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
-  <a href="./certificates/python_basics.jpeg"><img align="left" alt="basics" height="22px" src="./badges/python_basics_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
+  <a href="./certificates/python_fundamentals_cert.jpeg"><img align="left" alt="fundamentals" height="22px" src="./badges/python_fundamentals_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
+  <a href="./certificates/python_basics_cert.jpeg"><img align="left" alt="basics" height="22px" src="./badges/python_basics_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
 </div>
 <br />
 
 #### Open Courses
 <div style="display: flex; flex-wrap: wrap">
-  <a href="./certificates/mysql_fundamentals.jpeg"><img align="left" alt="mysql" height="22px" src="./badges/mysql_fundamentals_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
-  <a href="./certificates/python_algorithms.jpeg"><img align="left" alt="algorithms" height="22px" src="./badges/python_algorithms_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
+  <a href="./certificates/mysql_fundamentals_cert.jpeg"><img align="left" alt="mysql" height="22px" src="./badges/mysql_fundamentals_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
+  <a href="./certificates/python_algorithms_cert.jpeg"><img align="left" alt="algorithms" height="22px" src="./badges/python_algorithms_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
 </div>
 <br />
 <hr />
