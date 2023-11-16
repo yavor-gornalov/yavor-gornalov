@@ -2,7 +2,7 @@
 - 🌱 I'm currently learning Software Engineering at SoftUni University
 - 🔭 I am interested in Web Application Development, Object Oriented Programming and Algorithms
 - 📫 How to reach me: y.gornalov@gmail.com
-<hr/>
+<hr />
 
 ### Languages and Tools I know:
 <div style="display: flex; flex-wrap: wrap">
@@ -15,6 +15,7 @@
   <img align="left" alt="vscode" height="32px" src="./icons/vscode_original_ico.svg" style="padding-right:1em; padding-bottom:0.5em;" />
   <img align="left" alt="github" height="32px" src="./icons/github_original_ico.svg" style="padding-right:1em; padding-bottom:0.5em; " />
 </div>
+<br />
 <br />
 <hr />
 
@@ -32,6 +33,7 @@
   <a href="./certificates/mysql_fundamentals_cert.jpeg"><img align="left" alt="mysql" height="22px" src="./badges/mysql_fundamentals_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
   <a href="./certificates/python_algorithms_cert.jpeg"><img align="left" alt="algorithms" height="22px" src="./badges/python_algorithms_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
 </div>
+<br />
 <br />
 <hr />
 
