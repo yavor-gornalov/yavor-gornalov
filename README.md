@@ -22,6 +22,8 @@
 ### Certificates I've earned:
 #### Software Engineering
 <div style="display: flex; flex-wrap: wrap">
+  <!-- https://img.shields.io/badge/Python-OOP-darkred?logo=Python&labelColor=blue&logoColor=white&style=flat -->
+  <a href="./certificates/python_oop_cert.jpeg"><img align="left" alt="oop" height="22px" src="./badges/python_oop_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
   <a href="./certificates/python_advanced_cert.jpeg"><img align="left" alt="advanced" height="22px" src="./badges/python_advanced_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
   <a href="./certificates/python_fundamentals_cert.jpeg"><img align="left" alt="fundamentals" height="22px" src="./badges/python_fundamentals_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
   <a href="./certificates/python_basics_cert.jpeg"><img align="left" alt="basics" height="22px" src="./badges/python_basics_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
