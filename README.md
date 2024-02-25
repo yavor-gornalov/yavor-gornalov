@@ -21,9 +21,17 @@
 <hr />
 
 ### Certificates I've earned:
-#### Software Engineering
+#### Front-End
 <div style="display: flex; flex-wrap: wrap">
   <!-- https://img.shields.io/badge/Python-OOP-darkred?logo=Python&labelColor=blue&logoColor=white&style=flat -->
+  <a href="./certificates/html_css_cert.jpeg"><img align="left" alt="basics" height="22px" src="./badges/html_css_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
+</div>
+<br />
+
+#### Back-End
+<div style="display: flex; flex-wrap: wrap">
+  <!-- https://img.shields.io/badge/Python-OOP-darkred?logo=Python&labelColor=blue&logoColor=white&style=flat -->
+  <a href="./certificates/python_algorithms_cert.jpeg"><img align="left" alt="algorithms" height="22px" src="./badges/python_algorithms_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
   <a href="./certificates/python_oop_cert.jpeg"><img align="left" alt="oop" height="22px" src="./badges/python_oop_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
   <a href="./certificates/python_advanced_cert.jpeg"><img align="left" alt="advanced" height="22px" src="./badges/python_advanced_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
   <a href="./certificates/python_fundamentals_cert.jpeg"><img align="left" alt="fundamentals" height="22px" src="./badges/python_fundamentals_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
@@ -31,10 +39,10 @@
 </div>
 <br />
 
-#### Open Courses
+#### Databases
 <div style="display: flex; flex-wrap: wrap">
   <a href="./certificates/mysql_fundamentals_cert.jpeg"><img align="left" alt="mysql" height="22px" src="./badges/mysql_fundamentals_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
-  <a href="./certificates/python_algorithms_cert.jpeg"><img align="left" alt="algorithms" height="22px" src="./badges/python_algorithms_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
+
 </div>
 <br />
 <br />
