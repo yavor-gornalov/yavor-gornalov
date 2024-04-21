@@ -24,7 +24,9 @@
 #### Front-End
 <div style="display: flex; flex-wrap: wrap">
   <!-- https://img.shields.io/badge/Python-OOP-darkred?logo=Python&labelColor=blue&logoColor=white&style=flat -->
-  <a href="./certificates/html_css_cert.jpeg"><img align="left" alt="basics" height="22px" src="./badges/html_css_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
+  <a href="./certificates/html_css_cert.jpeg"><img align="left" alt="html & css" height="22px" src="./badges/html_css_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
+<!--   https://img.shields.io/badge/JavaScript-FrontEnd-orange?logo=Javascript&labelColor=grey&logoColor=yellow&style=flat -->
+  <a href="./certificates/js_front_end_cert.jpeg"><img align="left" alt="js front-end" height="22px" src="./badges/js_front_end_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
 </div>
 <br />
 
@@ -32,10 +34,10 @@
 <div style="display: flex; flex-wrap: wrap">
   <!-- https://img.shields.io/badge/Python-OOP-darkred?logo=Python&labelColor=blue&logoColor=white&style=flat -->
   <a href="./certificates/python_algorithms_cert.jpeg"><img align="left" alt="algorithms" height="22px" src="./badges/python_algorithms_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
-  <a href="./certificates/python_oop_cert.jpeg"><img align="left" alt="oop" height="22px" src="./badges/python_oop_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
-  <a href="./certificates/python_advanced_cert.jpeg"><img align="left" alt="advanced" height="22px" src="./badges/python_advanced_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
-  <a href="./certificates/python_fundamentals_cert.jpeg"><img align="left" alt="fundamentals" height="22px" src="./badges/python_fundamentals_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
-  <a href="./certificates/python_basics_cert.jpeg"><img align="left" alt="basics" height="22px" src="./badges/python_basics_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
+  <a href="./certificates/python_oop_cert.jpeg"><img align="left" alt="python oop" height="22px" src="./badges/python_oop_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
+  <a href="./certificates/python_advanced_cert.jpeg"><img align="left" alt="python advanced" height="22px" src="./badges/python_advanced_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
+  <a href="./certificates/python_fundamentals_cert.jpeg"><img align="left" alt="python fundamentals" height="22px" src="./badges/python_fundamentals_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
+  <a href="./certificates/python_basics_cert.jpeg"><img align="left" alt="python basics" height="22px" src="./badges/python_basics_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
 </div>
 <br />
 
