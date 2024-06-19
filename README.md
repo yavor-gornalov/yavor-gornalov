@@ -5,7 +5,9 @@
 <hr />
 
 ### Languages and Tools I know:
-<div style="display: flex; flex-wrap: wrap">
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,js,html,css,mysql,postgres,visualstudio,pycharm,vscode,github)](https://skillicons.dev)
+
+<!-- <div style="display: flex; flex-wrap: wrap">
   <img align="left" alt="python" height="32px" src="./icons/python_original_ico.svg" style="padding:1em;" />
   <img align="left" alt="mysql" height="32px" src="./icons/mysql_original_ico.svg" style="padding:1em;" />
   <img align="left" alt="postgresql" height="32px" src="./icons/postgresql_plain_ico.svg" style="padding:1em;" />
@@ -15,7 +17,7 @@
   <img align="left" alt="pycharm" height="32px" src="./icons/pycharm_original_ico.svg" style="padding:1em;" />
   <img align="left" alt="vscode" height="32px" src="./icons/vscode_original_ico.svg" style="padding:1em;" />
   <img align="left" alt="github" height="32px" src="./icons/github_original_ico.svg" style="padding:1em; " />
-</div>
+</div> -->
 <br />
 <br />
 <hr />
@@ -44,6 +46,8 @@
 #### Databases
 <div style="display: flex; flex-wrap: wrap">
   <a href="./certificates/mysql_fundamentals_cert.jpeg"><img align="left" alt="mysql" height="22px" src="./badges/mysql_fundamentals_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
+
+  <a href="./certificates/mssql_fundamentals_cert.jpeg"><img align="left" alt="mssql" height="22px" src="https://img.shields.io/badge/MS%20SQL-Fundamentals-orange?logo=microsoftsqlserver&labelColor=darkgreen&logoColor=white&style=flat" style="padding-right:1em; padding-bottom:0.5em;"/></a>
 
 </div>
 <br />
