@@ -8,18 +8,19 @@
 
 ### Languages and Tools I know:
 
-<img style="padding-right:1em; padding-bottom:0.5em;" src="https://skillicons.dev/icons?i=cs">
-<img style="padding-right:1em; padding-bottom:0.5em;" src="https://skillicons.dev/icons?i=dotnet">
-<img style="padding-right:1em; padding-bottom:0.5em;" src="https://skillicons.dev/icons?i=py">
-<img style="padding-right:1em; padding-bottom:0.5em;" src="https://skillicons.dev/icons?i=js">
-<img style="padding-right:1em; padding-bottom:0.5em;" src="https://skillicons.dev/icons?i=html">
-<img style="padding-right:1em; padding-bottom:0.5em;" src="https://skillicons.dev/icons?i=css">
-<img style="padding-right:1em; padding-bottom:0.5em;" src="https://skillicons.dev/icons?i=mysql">
-<img style="padding-right:1em; padding-bottom:0.5em;" src="https://skillicons.dev/icons?i=postgres">
-<img style="padding-right:1em; padding-bottom:0.5em;" src="https://skillicons.dev/icons?i=visualstudio">
-<img style="padding-right:1em; padding-bottom:0.5em;" src="https://skillicons.dev/icons?i=pycharm">
-<img style="padding-right:1em; padding-bottom:0.5em;" src="https://skillicons.dev/icons?i=vscode">
-<img style="padding-right:1em; padding-bottom:0.5em;" src="https://skillicons.dev/icons?i=github">
+<div>
+<img style="display: inline-block; padding-right:1em; padding-bottom:0.5em;" src="https://skillicons.dev/icons?i=cs">
+<img style="display: inline-block; padding-right:1em; padding-bottom:0.5em;" src="https://skillicons.dev/icons?i=dotnet">
+<img style="display: inline-block; padding-right:1em; padding-bottom:0.5em;" src="https://skillicons.dev/icons?i=py">
+<img style="display: inline-block; padding-right:1em; padding-bottom:0.5em;" src="https://skillicons.dev/icons?i=js">
+<img style="display: inline-block; padding-right:1em; padding-bottom:0.5em;" src="https://skillicons.dev/icons?i=html">
+<img style="display: inline-block; padding-right:1em; padding-bottom:0.5em;" src="https://skillicons.dev/icons?i=css">
+<img style="display: inline-block; padding-right:1em; padding-bottom:0.5em;" src="https://skillicons.dev/icons?i=mysql">
+<img style="display: inline-block; padding-right:1em; padding-bottom:0.5em;" src="https://skillicons.dev/icons?i=postgres">
+<img style="display: inline-block; padding-right:1em; padding-bottom:0.5em;" src="https://skillicons.dev/icons?i=visualstudio">
+<img style="display: inline-block; padding-right:1em; padding-bottom:0.5em;" src="https://skillicons.dev/icons?i=pycharm">
+<img style="display: inline-block; padding-right:1em; padding-bottom:0.5em;" src="https://skillicons.dev/icons?i=vscode">
+<img style="display: inline-block; padding-right:1em; padding-bottom:0.5em;" src="https://skillicons.dev/icons?i=github">
 <!-- <div style="display: flex; flex-wrap: wrap">
   <img align="left" alt="python" height="32px" src="./icons/python_original_ico.svg" style="padding:1em;" />
   <img align="left" alt="mysql" height="32px" src="./icons/mysql_original_ico.svg" style="padding:1em;" />
