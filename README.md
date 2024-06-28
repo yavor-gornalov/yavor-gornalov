@@ -11,7 +11,18 @@ I'm a passionate Software Engineering student at SoftUni University, deeply inte
 ## Languages and Tools
 
 <div>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,js,html,css,mysql,postgres,visualstudio,pycharm,vscode,github" alt="Skills" style="display: inline-block; margin: 0.25em;">
+  <img style="display: inline-block; margin:0.25em;" src="https://skillicons.dev/icons?i=cs">
+  <img style="display: inline-block; margin:0.25em;" src="https://skillicons.dev/icons?i=dotnet">
+  <img style="display: inline-block; margin:0.25em;" src="https://skillicons.dev/icons?i=py">
+  <img style="display: inline-block; margin:0.25em;" src="https://skillicons.dev/icons?i=js">
+  <img style="display: inline-block; margin:0.25em;" src="https://skillicons.dev/icons?i=html">
+  <img style="display: inline-block; margin:0.25em;" src="https://skillicons.dev/icons?i=css">
+  <img style="display: inline-block; margin:0.25em;" src="https://skillicons.dev/icons?i=mysql">
+  <img style="display: inline-block; margin:0.25em;" src="https://skillicons.dev/icons?i=postgres">
+  <img style="display: inline-block; margin:0.25em;" src="https://skillicons.dev/icons?i=visualstudio">
+  <img style="display: inline-block; margin:0.25em;" src="https://skillicons.dev/icons?i=pycharm">
+  <img style="display: inline-block; margin:0.25em;" src="https://skillicons.dev/icons?i=vscode">
+  <img style="display: inline-block; margin:0.25em;" src="https://skillicons.dev/icons?i=github">
 </div>
 
 ---
