@@ -31,37 +31,23 @@ I'm a passionate Software Engineering student at SoftUni University, deeply inte
 
 ### Front-End Development
 <div style="display: flex; flex-wrap: wrap; gap: 0.5em;">
-  <a href="./certificates/html_css_cert.jpeg"><img src="./badges/html_css_badge.svg" alt="HTML & CSS" height="22px" style="margin-bottom: 0 0.5em;"></a>
+  <a href="./certificates/html_css_cert.jpeg"><img src="./badges/html_css_badge.svg" alt="HTML & CSS" height="22px" style="margin: 0 0.5em;"></a>
   <a href="./certificates/js_front_end_cert.jpeg"><img src="./badges/js_front_end_badge.svg" alt="JavaScript Front-End" height="22px" style="margin: 0 0.5em;"></a>
 </div>
 
 ### Back-End Development
 <div style="display: flex; flex-wrap: wrap; gap: 0.5em;">
-  <a href="./certificates/python_algorithms_cert.jpeg">
-    <img src="./badges/python_algorithms_badge.svg" alt="Algorithms" height="22px" style="margin-bottom: 0.5em;">
-  </a>
-  <a href="./certificates/python_oop_cert.jpeg">
-    <img src="./badges/python_oop_badge.svg" alt="Python OOP" height="22px" style="margin-bottom: 0.5em;">
-  </a>
-  <a href="./certificates/python_advanced_cert.jpeg">
-    <img src="./badges/python_advanced_badge.svg" alt="Python Advanced" height="22px" style="margin-bottom: 0.5em;">
-  </a>
-  <a href="./certificates/python_fundamentals_cert.jpeg">
-    <img src="./badges/python_fundamentals_badge.svg" alt="Python Fundamentals" height="22px" style="margin-bottom: 0.5em;">
-  </a>
-  <a href="./certificates/python_basics_cert.jpeg">
-    <img src="./badges/python_basics_badge.svg" alt="Python Basics" height="22px" style="margin-bottom: 0.5em;">
-  </a>
+  <a href="./certificates/python_algorithms_cert.jpeg"><img src="./badges/python_algorithms_badge.svg" alt="Algorithms" height="22px" style="margin: 0 0.5em;"></a>
+  <a href="./certificates/python_oop_cert.jpeg"><img src="./badges/python_oop_badge.svg" alt="Python OOP" height="22px" style="margin: 0 0.5em;"></a>
+  <a href="./certificates/python_advanced_cert.jpeg"><img src="./badges/python_advanced_badge.svg" alt="Python Advanced" height="22px" style="margin: 0 0.5em;"></a>
+  <a href="./certificates/python_fundamentals_cert.jpeg"><img src="./badges/python_fundamentals_badge.svg" alt="Python Fundamentals" height="22px" style="margin: 0 0.5em;"></a>
+  <a href="./certificates/python_basics_cert.jpeg"><img src="./badges/python_basics_badge.svg" alt="Python Basics" height="22px" style="margin: 0 0.5em;"></a>
 </div>
 
 ### Databases
 <div style="display: flex; flex-wrap: wrap; gap: 0.5em;">
-  <a href="./certificates/mysql_fundamentals_cert.jpeg">
-    <img src="./badges/mysql_fundamentals_badge.svg" alt="MySQL Fundamentals" height="22px" style="margin-bottom: 0.5em;">
-  </a>
-  <a href="./certificates/mssql_fundamentals_cert.jpeg">
-    <img src="https://img.shields.io/badge/MS%20SQL-Fundamentals-orange?logo=microsoftsqlserver&labelColor=darkgreen&logoColor=white&style=flat" alt="MS SQL Fundamentals" height="22px" style="margin-bottom: 0.5em;">
-  </a>
+  <a href="./certificates/mysql_fundamentals_cert.jpeg"><img src="./badges/mysql_fundamentals_badge.svg" alt="MySQL Fundamentals" height="22px" style="margin: 0 0.5em;"></a>
+  <a href="./certificates/mssql_fundamentals_cert.jpeg"><img src="https://img.shields.io/badge/MS%20SQL-Fundamentals-orange?logo=microsoftsqlserver&labelColor=darkgreen&logoColor=white&style=flat" alt="MS SQL Fundamentals" height="22px" style="margin: 0 0.5em;"></a>
 </div>
 
 ---
