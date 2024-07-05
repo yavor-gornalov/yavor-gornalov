@@ -31,12 +31,8 @@ I'm a passionate Software Engineering student at SoftUni University, deeply inte
 
 ### Front-End Development
 <div style="display: flex; flex-wrap: wrap; gap: 0.5em;">
-  <a href="./certificates/html_css_cert.jpeg">
-    <img src="./badges/html_css_badge.svg" alt="HTML & CSS" height="22px" style="margin-bottom: 0.5em;">
-  </a>
-  <a href="./certificates/js_front_end_cert.jpeg">
-    <img src="./badges/js_front_end_badge.svg" alt="JavaScript Front-End" height="22px" style="margin-bottom: 0.5em;">
-  </a>
+  <a href="./certificates/html_css_cert.jpeg"><img src="./badges/html_css_badge.svg" alt="HTML & CSS" height="22px" style="margin-bottom: 0 0.5em;"></a>
+  <a href="./certificates/js_front_end_cert.jpeg"><img src="./badges/js_front_end_badge.svg" alt="JavaScript Front-End" height="22px" style="margin: 0 0.5em;"></a>
 </div>
 
 ### Back-End Development
