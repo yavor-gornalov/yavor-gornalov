@@ -37,6 +37,8 @@ I'm a passionate Software Engineering student at SoftUni University, deeply inte
 
 ### Back-End Development
 <div style="display: flex; flex-wrap: wrap; gap: 0.5em;">
+<!-- https://img.shields.io/badge/EF%20Core-Advanced-darkred?labelColor=darkgreen&logoColor=white&style=flat&logo=.net -->
+  <a href="./certificates/csharp_ef_core.jpeg"><img src="https://img.shields.io/badge/EF%20Core-Advanced-darkred?labelColor=darkgreen&logoColor=white&style=flat&logo=.net" alt="EF Core" height="22px" style="margin: 0 0.5em;"></a>
   <a href="./certificates/python_algorithms_cert.jpeg"><img src="./badges/python_algorithms_badge.svg" alt="Algorithms" height="22px" style="margin: 0 0.5em;"></a>
   <a href="./certificates/python_oop_cert.jpeg"><img src="./badges/python_oop_badge.svg" alt="Python OOP" height="22px" style="margin: 0 0.5em;"></a>
   <a href="./certificates/python_advanced_cert.jpeg"><img src="./badges/python_advanced_badge.svg" alt="Python Advanced" height="22px" style="margin: 0 0.5em;"></a>
