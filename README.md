@@ -2,8 +2,8 @@
 
 I'm a passionate Software Engineering student at SoftUni University with a growing expertise in **Web Application Development, Object-Oriented Programming, Algorithms, and Database Management**. My journey so far has equipped me with strong skills in both front-end and back-end technologies, and I'm currently diving deeper into the world of **ASP.NET** and advanced database systems.
 
-- 🌱 **Currently Learning:** ASP.NET and advanced concepts in Entity Framework Core and T-SQL.
-- 🔭 **Interests:** Full-Stack Web Development, Object-Oriented Design, Database Optimization, and Software Architecture.
+- 🌱 **Currently Learning:** ASP.NET, including on MVC patterns, database integration, authentication, and advanced ASP.NET Core topics like middleware and RESTful APIs.
+- 🔭 **Interests:** Full-Stack Web Development, Object-Oriented Design, Database Optimization, ASP.NET Core, and Software Architecture.
 - 🎓 **Recent Achievements:** Certifications in T-SQL, Entity Framework Core, and several Python programming courses.
 - 📫 **Contact Me:** [y.gornalov@gmail.com](mailto:y.gornalov@gmail.com)
 
