@@ -5,7 +5,7 @@ I'm a passionate Software Engineering student at SoftUni University with a growi
 - 🌱 **Currently Learning:** ASP.NET, including on MVC patterns, database integration, authentication, and advanced ASP.NET Core topics like middleware and RESTful APIs.
 - 🔭 **Interests:** Full-Stack Web Development, Object-Oriented Design, Database Optimization, ASP.NET Core, and Software Architecture.
 - 🎓 **Recent Achievements:** Certifications in T-SQL, Entity Framework Core, and several Python programming courses.
-- 📫 **Contact Me:** [y.gornalov@gmail.com](mailto:y.gornalov@gmail.com)
+- 📫 **Contact Me:** <a href="mailto:y.gornalov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="y.gornalov@gmail.com" height="24px"></a> <a href="https://www.linkedin.com/in/yavor-gornalov"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yavor-gornalov" height="24px"></a>
 
 ---
 
@@ -39,6 +39,7 @@ I'm a passionate Software Engineering student at SoftUni University with a growi
 ### Back-End Development
 <div style="display: flex; flex-wrap: wrap; gap: 0.5em;">
 <!-- https://img.shields.io/badge/EF%20Core-Advanced-darkred?labelColor=darkgreen&logoColor=white&style=flat&logo=.net -->
+  <a href="./certificates/csharp_asp_net_fund.jpeg"><img src="https://img.shields.io/badge/ASP.NET-Fundamentals-orange?labelColor=darkgreen&logoColor=white&style=flat&logo=.net" alt="ASP.NET Fundamentals" height="22px" style="margin: 0 0.5em;"></a>
   <a href="./certificates/csharp_ef_core.jpeg"><img src="https://img.shields.io/badge/EF%20Core-Advanced-darkred?labelColor=darkgreen&logoColor=white&style=flat&logo=.net" alt="EF Core" height="22px" style="margin: 0 0.5em;"></a>
   <a href="./certificates/python_algorithms_cert.jpeg"><img src="./badges/python_algorithms_badge.svg" alt="Algorithms" height="22px" style="margin: 0 0.5em;"></a>
   <a href="./certificates/python_oop_cert.jpeg"><img src="./badges/python_oop_badge.svg" alt="Python OOP" height="22px" style="margin: 0 0.5em;"></a>
